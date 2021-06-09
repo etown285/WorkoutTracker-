@@ -17,7 +17,7 @@ An application that tracks the user's workouts, including their calories and bur
 
 ## Usage
 
-![Screenshot](https://drive.google.com/file/d/1lvQpzIZulACkbrPNZM8HE5iWWle2Yxbx/view)
+![Screenshot](https://github.com/etown285/WorkoutTracker-/blob/main/Fitness%20Tracker.gif)
 
 ## Links
 
