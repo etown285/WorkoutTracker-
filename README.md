@@ -25,6 +25,8 @@ An application that tracks the user's workouts, including their calories and bur
 
 * GitHub Repository URL: (https://github.com/etown285/WorkoutTracker-)
 
+## Contributors 
+
 License
 
 Copyright (c) [2021] [Steven Paul]
