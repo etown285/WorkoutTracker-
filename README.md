@@ -17,7 +17,7 @@ An application that tracks the user's workouts, including their calories and bur
 
 ## Usage
 
-![Screenshot]()
+![Screenshot](https://drive.google.com/file/d/1lvQpzIZulACkbrPNZM8HE5iWWle2Yxbx/view)
 
 ## Links
 
@@ -26,6 +26,16 @@ An application that tracks the user's workouts, including their calories and bur
 * GitHub Repository URL: (https://github.com/etown285/WorkoutTracker-)
 
 ## Contributors 
+
+Thank you to the following individuals for their insights and perspectives on this project.
+
+Patrick Walker: https://github.com/pat31477
+
+Jason Barbanel: https://github.com/Jbarbss
+
+Gabe Thomas: https://github.com/samohtebag
+
+You may fork or request the application as well, or feel free to contact me via either of the mediums listed below.
 
 License
 
